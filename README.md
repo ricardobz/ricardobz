@@ -1,3 +1,6 @@
+# Ricardo Beckert
+[![Dev.to Badge](https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/ricardobz)](https://dev.to/ricardobz) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/ricardobeckert)](https://twitter.com/ricardobeckert) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/ricardo-beckert/)](https://br.linkedin.com/in/ricardo-beckert/) [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/11786651)](https://stackoverflow.com/users/11786651) [![Gmail Badge](https://img.shields.io/badge/-beckert.ricardo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:beckert.ricardo@gmail.com)](mailto:beckert.ricardo@gmail.com)
+
 ### Hi there 👋
 
 <!--
