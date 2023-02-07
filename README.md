@@ -46,7 +46,9 @@ Some of the technologies (languages, frameworks, libs, db, os and other tools) I
 
 ## 📊 GitHub activity
 
-[![Ricardo's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ricardobz&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ricardo's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ricardobz&theme=minimal)
+
+![Ricardo's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricardobz&theme=github)
 
 <!--
 **ricardobz/ricardobz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
