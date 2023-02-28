@@ -19,30 +19,30 @@
 
 Some of the technologies (languages, frameworks, libs, db, os and other tools) I've worked with...
 
-<div>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&style=flat" height="25"/>
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" height="25"/>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&style=flat" height="25"/>
-<img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat" height="25"/>
-<img src="https://img.shields.io/badge/-Hasura-1EB4D4?logo=hasura&logoColor=white&style=flat" height="25"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green&style=flat" height="25"/>
-<img src="https://img.shields.io/badge/Fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white&style=flat" height="25"/>
-<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white&style=flat" height="25"/>
-<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" height="25"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&style=flat" height="25"/>
-<img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black&style=flat" height="25"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat" height="25"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat" height="25"/>
-<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat" height="25"/>
-<img src="https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white&style=flat" height="25"/>
-<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white&style=flat" height="25"/>
-<img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=black&style=flat" height="25"/>
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&style=flat" height="25"/>
-<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" height="25"/>
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&style=flat" height="25"/>
-<img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=black&style=flat" height="25"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&style=flat" height="25"/>
-</div>
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&style=flat)](https://www.javascript.com/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&style=flat)](https://www.python.org/)
+[![GraphQl](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat)](https://graphql.org/)
+[![Hasura](https://img.shields.io/badge/-Hasura-1EB4D4?logo=hasura&logoColor=white&style=flat)](https://hasura.io/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green&style=flat)](https://www.djangoproject.com/)
+[![Fastapi](https://img.shields.io/badge/Fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white&style=flat)](https://fastapi.tiangolo.com/)
+[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white&style=flat)](https://pandas.pydata.org/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)](https://www.postgresql.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&style=flat)](https://www.sqlite.org/index.html)
+[![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black&style=flat)](https://firebase.google.com/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=flat)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+[![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)](https://reactjs.org/)
+[![AntDesign](https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white&style=flat)](https://ant.design/)
+[![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white&style=flat)](https://mui.com/)
+[![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=black&style=flat)](https://tiswww.case.edu/php/chet/bash/bashtop.html)
+[![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&style=flat)](https://code.visualstudio.com/)
+[![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&style=flat)](https://www.docker.com/)
+[![PopOS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=black&style=flat)](https://pop.system76.com/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&style=flat)](https://ubuntu.com/)
+
 
 ## 📊 GitHub activity
 
