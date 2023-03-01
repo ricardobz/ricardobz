@@ -17,7 +17,7 @@
 
 ## 🛠️ Technologies
 
-Some of the technologies (languages, frameworks, libs, db, os and other tools) I've worked with...
+Some of the technologies (languages, frameworks, libs, db, os and other tools and platforms) I've worked with...
 
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&style=flat)](https://www.javascript.com/)
@@ -37,11 +37,14 @@ Some of the technologies (languages, frameworks, libs, db, os and other tools) I
 [![AntDesign](https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white&style=flat)](https://ant.design/)
 [![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white&style=flat)](https://mui.com/)
 [![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=black&style=flat)](https://tiswww.case.edu/php/chet/bash/bashtop.html)
-[![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&style=flat)](https://code.visualstudio.com/)
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)](https://git-scm.com/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=flat)](https://github.com/)
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white&style=flat)](https://bitbucket.org/)
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&style=flat)](https://www.docker.com/)
+[![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&style=flat)](https://code.visualstudio.com/)
 [![PopOS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=black&style=flat)](https://pop.system76.com/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&style=flat)](https://ubuntu.com/)
+
 
 
 ## 📊 GitHub activity
