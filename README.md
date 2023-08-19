@@ -49,8 +49,6 @@ Some of the technologies (languages, frameworks, libs, db, os and other tools an
 
 ## 📊 GitHub activity
 
-![Ricardo's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ricardobz&theme=minimal)
-
 ![Ricardo's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricardobz&theme=github)
 
 <!--
