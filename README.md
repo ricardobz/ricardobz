@@ -6,7 +6,7 @@
 
 ## 📛 Hi there, I'm Ricardo
 
-- 🧑‍💻 Software Engineer
+- 🧑‍💻 Software Developer
 - 🏠 Working remotely (home office)
 - 🐾 Pet father
 
