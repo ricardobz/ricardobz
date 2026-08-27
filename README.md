@@ -1,10 +1,9 @@
 # Ricardo Beckert
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/ricardo-beckert/)](https://br.linkedin.com/in/ricardo-beckert/)
 [![Dev.to Badge](https://img.shields.io/badge/-Dev.to-black?style=flat-square&logo=Dev.to&logoColor=white&link=https://dev.to/ricardobz)](https://dev.to/ricardobz)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/11786651)](https://stackoverflow.com/users/11786651)
 [![Gmail Badge](https://img.shields.io/badge/-beckert.ricardo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:beckert.ricardo@gmail.com)](mailto:beckert.ricardo@gmail.com)
 
-## 📛 Hi there, I'm Ricardo
+## 📛 Hello there, I'm Ricardo
 
 - 🧑‍💻 Software Developer
 - 🏠 Working remotely (home office)
@@ -69,18 +68,3 @@ Some of the technologies (languages, frameworks, libs, db, os and other tools an
 ## 📊 GitHub activity
 
 ![Ricardo's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricardobz&theme=github)
-
-<!--
-**ricardobz/ricardobz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
